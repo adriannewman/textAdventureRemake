@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "name": "sword of what was I saying?",
+    "dmg": 10,
+    "possibleEffects": ["Fire", 'Poison', 'None'],
+
+    "locationsFound": [
+        {"dungeon": true},
+        {"wilderness": false
+        },
+        {
+        "town": false
+        }
+    ]
+
+
+}
+
+
